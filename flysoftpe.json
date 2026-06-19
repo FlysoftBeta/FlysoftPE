@@ -5,7 +5,7 @@
         "sta": "https://api.flysoft.tk/statistics/add.php?soft=flysoftpe"
     },
     "hub": {
-        "latest": "10.1",
+        "latest": "9.2",
         "latest_tool": "2.0",
         "link": "https://api.flysoft.tk/download/flysoftpe.php?mode=download&soft=hub_asar",
         "link_tool": "https://api.flysoft.tk/download/flysoftpe.php?mode=download&soft=hub_tool"
